@@ -1,0 +1,30 @@
+<svg width="600" height="220" viewBox="0 0 600 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .text {
+        font-family: 'Oswald', sans-serif;
+        font-size: 36px;
+        letter-spacing: 2px;
+        fill: #EDEDED;
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="600" height="220" fill="#0B0B0E"/>
+
+  <!-- Core Symbol -->
+  <circle cx="110" cy="110" r="55" fill="none" stroke="#6A1B9A" stroke-width="4"/>
+
+  <!-- Broken Shadow Lines -->
+  <path d="M110 55 L95 95" stroke="#6A1B9A" stroke-width="3"/>
+  <path d="M155 110 L125 125" stroke="#6A1B9A" stroke-width="3"/>
+  <path d="M110 165 L120 135" stroke="#6A1B9A" stroke-width="3"/>
+  <path d="M65 110 L95 105" stroke="#6A1B9A" stroke-width="3"/>
+
+  <!-- Inner Core -->
+  <circle cx="110" cy="110" r="8" fill="#C77DFF"/>
+
+  <!-- Text -->
+  <text x="200" y="118" class="text">SHADOW CORE STUDIO</text>
+</svg>
