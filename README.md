@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="[Screenshot-2026-06-01-112800.png](https://postimg.cc/PpTMM4Yg)" alt="Shadow Core Studio Logo" width="100%"/>
+![Studio Logo](./image.svg)
 
   [![Unreal Engine](https://img.shields.io/badge/Engine-Unreal_Engine_5.3-purple?style=for-the-badge&logo=unrealengine&logoColor=white)](https://www.unrealengine.com/)
   [![Developer](https://img.shields.io/badge/Developer-Mani_Ebrahimi_(Shadow_Game_Dev)-blue?style=for-the-badge)](https://mrcode-10.github.io/my-awesome-site/)
