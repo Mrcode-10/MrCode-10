@@ -44,3 +44,25 @@
 
 </div>
 
+<br/>
+
+<div align="center">
+
+### 📊 GitHub Activity & Stats
+
+<a href="https://github.com/MrCode-10">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrCode-10&theme=tokyonight&hide_border=true&area=true" width="90%" alt="Mani's GitHub Activity Graph" />
+</a>
+
+<br/>
+
+<a href="https://github.com/MrCode-10">
+  <img src="https://github-readme-stats.vercel.app/api?username=MrCode-10&show_icons=true&theme=tokyonight&hide_border=true" width="45%" alt="GitHub Stats" />
+</a>
+<a href="https://github.com/MrCode-10">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrCode-10&layout=compact&theme=tokyonight&hide_border=true" width="45%" alt="Top Languages" />
+</a>
+
+</div>
+
+
