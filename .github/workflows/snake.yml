@@ -24,7 +24,8 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Push to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
