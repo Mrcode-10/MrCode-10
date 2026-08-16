@@ -1,0 +1,30 @@
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # ربات هر شب ساعت ۱۲ بیدار میشه!
+  workflow_dispatch: # دکمه دستی برای اجرای ربات
+  push:
+    branches:
+      - main # هر وقت چیزی به main پوش شد، اینم آپدیت میشه
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - uses: Platane/snk@v3
+        with:
+          # اسم یوزرنیم خودت رو به جای MrCode-10 بذار اگه فرق داره!
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
