@@ -7,8 +7,6 @@
   [![Studio](https://img.shields.io/badge/Studio-Shadow_Core_Studio-8A2BE2?style=for-the-badge)](https://www.youtube.com/@ShadowCoreStudio-i7r)
   [![Status](https://img.shields.io/badge/Status-In_Development-orange?style=for-the-badge)]()
 
-
-
   ---
 
   [🌐 Official Website](https://mrcode-10.github.io/my-awesome-site/) •
@@ -28,23 +26,46 @@
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](#)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](#)
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](#)
+[![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)](#)
 
 ### 🎮 Game & App Development
 
 [![Unreal Engine 5](https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=for-the-badge&logo=unrealengine&logoColor=white)](#)
 [![Unreal Engine 4](https://img.shields.io/badge/Unreal_Engine_4-313131?style=for-the-badge&logo=unrealengine&logoColor=white)](#)
 [![Android Dev](https://img.shields.io/badge/Android_App_Development-3DDC84?style=for-the-badge&logo=android&logoColor=white)](#)
+[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](#)
+[![Figma](https://img.shields.io/badge/Figma_UI%2FUX-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](#)
+
+### 🎨 UI/UX & Video Editing
+
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](#)
+[![Video Editing](https://img.shields.io/badge/Video_Editing-FF0050?style=for-the-badge&logo=tiktok&logoColor=white)](#)
 
 ### 🔍 Explored & Familiar With (Side Quests!)
 
-[![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)](#)
+[![Godot Engine](https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godotengine&logoColor=white)](#)
+[![Linux (9+ Distros)](https://img.shields.io/badge/Linux_Explorer-FCC624?style=for-the-badge&logo=linux&logoColor=black)](#)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](#)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](#)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](#)
+[![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)](#)
 
-*“Forged in C++, thriving in Unreal Engine, and occasionally exploring new realms!”* 🚀✨
+<br/>
+
+> *“Forged in C++, thriving in Unreal Engine, designing complete UI/UX & Databases, producing content, and continuously exploring new tech realms!”* 🚀✨
 
 </div>
 
 <br/>
+
+---
+
+### 🎨 UI/UX Design & Database Architecture
+- **UI/UX Design:** Designed end-to-end custom user interfaces in **Figma** for mobile applications.
+- **Database Architecture:** Built and structured custom database schemas for all Android apps and web projects.
+- **Content Creation & Video Editing:** Self-produced, recorded, and edited all video content for **YouTube** and **TikTok**.
+
+---
 
 <div align="center">
 
@@ -76,4 +97,3 @@
 </picture>
 
 </div>
-
